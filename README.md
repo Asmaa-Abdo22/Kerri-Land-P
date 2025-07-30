@@ -8,7 +8,7 @@ This is a simple and responsive personal portfolio website built using HTML, CSS
 
 ## 📸 Screenshot
 
-![Screenshot](<img width="1920" height="5955" alt="Image" src="https://github.com/user-attachments/assets/39af2202-dd86-48cd-8556-6af6f3c1452a" />)
+![Screenshot](https://github.com/user-attachments/assets/39af2202-dd86-48cd-8556-6af6f3c1452a)
 
 ## 🛠️ Technologies Used
 
